@@ -1,6 +1,6 @@
 /* Danganronpa */
 /* Кёко Киригири */
-.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="10752-byakuran"] img {
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="63845-kyouko-"] img {
     visibility: hidden;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="63845-kyouko-"] .image-cutter {
@@ -22,7 +22,10 @@
     background: url("https://i.pinimg.com/1200x/11/1d/80/111d8041563f509d1fa787a3509a6369.jpg") no-repeat 0% 15% / 100%;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="10752-byakuran"] .image-cutter:hover {
-    background-image: url("https://media1.tenor.com/m/Kyvu_aDsXuYAAAAd/byakuran-hitman-reborn.gif");
+	background-image: url("https://media1.tenor.com/m/Kyvu_aDsXuYAAAAd/byakuran-hitman-reborn.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
 }
 .p-profiles .cc-favourites .c-character a[href*="10752-byakuran"] .image-decor::before {
     content: "Бьякуран";
@@ -38,6 +41,9 @@
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="108083-kenjirou-"] .image-cutter:hover {
     background-image: url("https://i.pinimg.com/originals/12/b7/93/12b793f08fb57ad2ed36abbf79f9dc06.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
 }
 .p-profiles .cc-favourites .c-character a[href*="108083-kenjirou-"] .image-decor::before {
     content: "Кэндзиро Сибадзаки";
