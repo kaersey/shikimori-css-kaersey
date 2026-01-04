@@ -5,13 +5,14 @@
 
 /* базовая обложка */
 .p-profiles .cc-favourites .b-catalog_entry .image-cutter {
-    background: var(--img-static);
+    background: var(--img-static) no-repeat var(--bg-position, center) / var(--bg-size, cover);
 }
 
 /* гифка при наведении */
 .p-profiles .cc-favourites .b-catalog_entry .image-cutter:hover {
     background-image: var(--img-hover);
 }
+
 /* Danganronpa */
 /* Кёко Киригири */
 a[href*="63845-kyouko-"] {
@@ -25,12 +26,15 @@ a[href*="63845-kyouko-"] {
 /* Reborn */
 /* Бьякуран */
 a[href*="10752-byakuran"] {
-    --img-static: url("https://i.pinimg.com/1200x/11/1d/80/111d8041563f509d1fa787a3509a6369.jpg") no-repeat 0% 15% / 150%;
+    --img-static: url("https://i.pinimg.com/1200x/11/1d/80/111d8041563f509d1fa787a3509a6369.jpg");
     --img-hover: url("https://media1.tenor.com/m/Kyvu_aDsXuYAAAAd/byakuran-hitman-reborn.gif");
+    --bg-position: 0% 15%;
+    --bg-size: 150%;
 }
 .p-profiles .cc-favourites .c-character a[href*="10752-byakuran"] .image-decor::before {
     content: "Бьякуран";
 }
+
 
 
 
