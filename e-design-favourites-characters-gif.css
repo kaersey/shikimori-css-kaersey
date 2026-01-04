@@ -1,6 +1,6 @@
 /* Danganronpa */
 /* Кёко Киригири */
-.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="63845-kyouko-"] img {
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="10752-byakuran"] img {
     visibility: hidden;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="63845-kyouko-"] .image-cutter {
@@ -28,3 +28,17 @@
     content: "Бьякуран";
 }
 
+/* Zankyou no Terror */
+/* Кэндзиро Сибадзаки */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="108083-kenjirou-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="108083-kenjirou-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/4e/88/b1/4e88b19a466232386ff9ec96030c22e8.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="108083-kenjirou-"] .image-cutter:hover {
+    background-image: url("https://i.pinimg.com/originals/12/b7/93/12b793f08fb57ad2ed36abbf79f9dc06.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="108083-kenjirou-"] .image-decor::before {
+    content: "Кэндзиро Сибадзаки";
+}
