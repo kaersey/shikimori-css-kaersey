@@ -1,0 +1,34 @@
+/* скрываем оригинальные постеры всем */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a img {
+    visibility: hidden;
+}
+
+/* базовая обложка */
+.p-profiles .cc-favourites .b-catalog_entry .image-cutter {
+    background: var(--img-static) no-repeat center / cover;
+}
+
+/* гифка при наведении */
+.p-profiles .cc-favourites .b-catalog_entry .image-cutter:hover {
+    background-image: var(--img-hover);
+}
+
+/* Danganronpa */
+/* Кёко Киригири */
+a[href*="63845-kyouko-"] {
+    --img-static: url("https://i.pinimg.com/1200x/5e/0c/fe/5e0cfed763f3640bd0be8afdd3d26576.jpg");
+    --img-hover: url("https://media1.tenor.com/m/p2-aCFXz878AAAAd/danganronpa-kyoko-kirigiri.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="63845-kyouko-"] .image-decor::before {
+    content: "Кёко Киригири";
+}
+
+/* Reborn */
+/* Бьякуран */
+a[href*="10752-byakuran"] {
+    --img-static: url("https://i.pinimg.com/1200x/11/1d/80/111d8041563f509d1fa787a3509a6369.jpg");
+    --img-hover: url("https://media1.tenor.com/m/Kyvu_aDsXuYAAAAd/byakuran-hitman-reborn.gif");
+}
+.p-profiles .cc-favourites .c-character a[href*="10752-byakuran"] .image-decor::before {
+    content: "Бьякуран";
+}
