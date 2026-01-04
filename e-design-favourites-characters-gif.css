@@ -4,31 +4,87 @@
     visibility: hidden;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="63845-kyouko-"] .image-cutter {
-    background: url("https://i.pinimg.com/1200x/5e/0c/fe/5e0cfed763f3640bd0be8afdd3d26576.jpg") no-repeat 0% 15% / 100%;
+    background: url("https://i.pinimg.com/1200x/5e/0c/fe/5e0cfed763f3640bd0be8afdd3d26576.jpg") no-repeat 0% 30% / 100%;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="63845-kyouko-"] .image-cutter:hover {
     background-image: url("https://media1.tenor.com/m/p2-aCFXz878AAAAd/danganronpa-kyoko-kirigiri.gif");
+    background-position: 0% 50%;
+    background-size: 120%;
+    background-repeat: no-repeat;
 }
 .p-profiles .cc-favourites .c-character a[href*="63845-kyouko-"] .image-decor::before {
     content: "Кёко Киригири";
 }
 
-/* Reborn */
-/* Бьякуран */
-.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="10752-byakuran"] img {
+/* Макото Наэги */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="63851-makoto-"] img {
     visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="63851-makoto-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/db/c3/d2/dbc3d2556c08f5690744b8bbe37455a6.jpg") no-repeat 0% 15% / 100%;
 }
-.p-profiles .cc-favourites .b-catalog_entry a[href*="10752-byakuran"] .image-cutter {
-    background: url("https://i.pinimg.com/1200x/11/1d/80/111d8041563f509d1fa787a3509a6369.jpg") no-repeat 0% 15% / 100%;
+.p-profiles .cc-favourites .b-catalog_entry a[href*="63851-makoto-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/64/67/d9/6467d98a303cd1d6d56295acaeb8ab66.gif");
+    background-position: 0% 15%;
+    background-size: 110%;
+    background-repeat: no-repeat;
 }
-.p-profiles .cc-favourites .b-catalog_entry a[href*="10752-byakuran"] .image-cutter:hover {
-	background-image: url("https://media1.tenor.com/m/Kyvu_aDsXuYAAAAd/byakuran-hitman-reborn.gif");
+.p-profiles .cc-favourites .c-character a[href*="63851-makoto-"] .image-decor::before {
+	content: "Макото Наэги";
+}
+.p-profiles .cc-favourites .c-character a[href*="63851-makoto-"] .image-cutter::before {
+	content: "Надежда наш компас земной";
+}
+
+/* Бьякуя Тогами */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="65541-byakuya-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="65541-byakuya-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/d4/75/77/d4757737e13c8428c22f7269a160816f.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="65541-byakuya-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/e7ae1df4256552cb1c433b5cf8e8f54c/tumblr_pjhesebC7L1w84m1s_540.gif");
+    background-position: 0% 0%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="65541-byakuya-"] .image-decor::before {
+    content: "Бьякуя Тогами";
+}
+
+/* Киётака Ишимару */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="65543-kiyotaka-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="65543-kiyotaka-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/5d/70/7e/5d707eb275688b0e690791c0b66304a8.jpg") no-repeat 0% 80% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="65543-kiyotaka-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/6169e30d61354585bdd113c7c8d9747d/tumblr_mpsjd5R5Rc1rntnxbo1_500.gif");
     background-position: 0% 0%;
     background-size: 110%;
     background-repeat: no-repeat;
 }
-.p-profiles .cc-favourites .c-character a[href*="10752-byakuran"] .image-decor::before {
-    content: "Бьякуран";
+.p-profiles .cc-favourites .c-character a[href*="65543-kiyotaka-"] .image-decor::before {
+    content: "Киётака Ишимару";
+}
+
+/* Ясухиро Хагакурэ */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="65533-yasuhiro-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="65533-yasuhiro-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/86/72/12/86721276f00cf3a67e1d7c0447f3ae7f.jpg") no-repeat 0% 50% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="65533-yasuhiro-"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/H8RaggjS7XYAAAAC/yelling-objection.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="65533-yasuhiro-"] .image-decor::before {
+    content: "Ясухиро Хагакурэ";
 }
 
 /* Zankyou no Terror */
@@ -47,4 +103,1052 @@
 }
 .p-profiles .cc-favourites .c-character a[href*="108083-kenjirou-"] .image-decor::before {
     content: "Кэндзиро Сибадзаки";
+}
+
+/* Shuffle! */
+/* Лисиантус */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="1483-lisianthus-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1483-lisianthus-"] .image-cutter {
+    background: url("https://s1.zerochan.net/Lisianthus.Eustoma.600.67481.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .c-character a[href*="1483-lisianthus-"] .image-decor::before {
+    content: "Лисиантус";
+}
+
+/* Sen to Chihiro no Kamikakushi */
+/* Рин */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="5465-lin"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5465-lin"] .image-cutter {
+    background: url("https://cdna.artstation.com/p/assets/images/images/028/894/408/large/cheryl-chen-rinfinal.jpg?1595853047") no-repeat 0% 50% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5465-lin"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/0ab1_yutg5QAAAAd/anime-spirited-away.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="5465-lin"] .image-decor::before {
+    content: "Рин";
+}
+
+/* Lovely Complex */
+/* Хэйкити Накао */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="3025-heikichi-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="3025-heikichi-"] .image-cutter {
+    background: url("http://images2.fanpop.com/images/polls/115624_1221043362808_full.jpg?v=1221043331") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .c-character a[href*="3025-heikichi-"] .image-decor::before {
+    content: "Хэйкити Накао";
+}
+
+/* Нобуко Исихара */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="3023-nobuko-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="3023-nobuko-"] .image-cutter {
+    background: url("https://64.media.tumblr.com/9613db89ea09653aafb614f46c3a9354/tumblr_pstmgbiqw81yplhz7o7_500.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .c-character a[href*="3023-nobuko-"] .image-decor::before {
+    content: "Нобуко Исихара";
+}
+
+/* Death Note */
+/* Л Лоулайт */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="71-l-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="71-l-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/58/1e/69/581e6932a8f2cfa694be55372f68f2ee.jpg") no-repeat 0% 50% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="71-l-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/f6/51/7e/f6517e779921d41d46124ac8c5e905f6.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="71-l-"] .image-decor::before {
+    content: "L";
+}
+
+/* Миса Аманэ */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="835-misa-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="835-misa-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/39/12/4f/39124fd2df78e7c9b4c0ea707c7e0dc9.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="835-misa-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/ef0448ce3e024e0d3b19391828115dda/c1ca23741877bf1d-ab/s500x750/da03c2ce6e463c29d484f6da62a13286586e678f.gifv");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="835-misa-"] .image-decor::before {
+    content: "Миса Аманэ";
+}
+
+/* Death Parade */
+/* Нона */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="118993-nona"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="118993-nona"] .image-cutter {
+    background: url("https://i.pinimg.com/originals/99/3d/a9/993da9c26f0ce848ed0b6b0be2aabc8c.jpg") no-repeat 0% 60% / 130%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="118993-nona"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/9a/24/0b/9a240be96143eafcb449e3c87bdd03d4.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="118993-nona"] .image-decor::before {
+    content: "Нона";
+}
+
+/* Reborn */
+/* Хром Докуро */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="5013-chrome-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5013-chrome-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/54/3e/4c/543e4c5a67623e21ff95cecebef2aa92.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5013-chrome-"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/aMDVtvGxatAAAAAC/chrome-dokuro.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="5013-chrome-"] .image-decor::before {
+    content: "Хром Докуро";
+}
+
+/* Хаято Гокудэра */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="1535-hayato-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1535-hayato-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/d6/45/b1/d645b17dbcbf510baf830f2e84678c36.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1535-hayato-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/tumblr_m0upvhy9LL1r877bvo1_500.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="1535-hayato-"] .image-decor::before {
+    content: "Хаято Гокудэра";
+}
+
+/* Кёя Хибари */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="1858-kyouya-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1858-kyouya-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/d7/c4/ec/d7c4ec4bb49385e5fb3cdac107b48365.jpg") no-repeat 0% 50% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1858-kyouya-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/0d/a9/f3/0da9f31f9b0674179ea7a80c7a25795c.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="1858-kyouya-"] .image-decor::before {
+    content: "Кёя Хибари";
+}
+
+/* Рёхэй Сасагава */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="1861-ryouhei-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1861-ryouhei-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/24/2d/25/242d2520e93fd1b87d2c0d34b4b24d98.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1861-ryouhei-"] .image-cutter:hover {
+	background-image: url("https://media.tenor.com/am2yTGOoO8MAAAAC/ryohei-sasagawa.gif");
+    background-position: 0% 0%;
+    background-size: 130%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="1861-ryouhei-"] .image-decor::before {
+    content: "Рёхэй Сасагава";
+}
+
+/* Такеши Ямамото */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="1556-takeshi-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1556-takeshi-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/09/0a/12/090a120be2ac76da365a6860cad9af92.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1556-takeshi-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/94/3a/f3/943af3cb4295045e837ba95555967610.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="1556-takeshi-"] .image-decor::before {
+    content: "Такеши Ямамото";
+}
+
+/* Цунаёши Савада */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="670-tsunayoshi-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="670-tsunayoshi-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/76/a9/9b/76a99b1fca677d44f6a7b823bc45cb3e.jpg") no-repeat 0% 40% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="670-tsunayoshi-"] .image-cutter:hover {
+	background-image: url("https://images.steamusercontent.com/ugc/22062835130203115/0BD39E905B393CA530F6EE4C433B70444E95A0D8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="670-tsunayoshi-"] .image-decor::before {
+    content: "Цунаёши Савада";
+}
+.p-profiles .cc-favourites .c-character a[href*="670-tsunayoshi-"] .image-cutter::before {
+	content: "глупий ♥";
+}
+
+/* Бьянки */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="1860-bianchi"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1860-bianchi"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/59/6b/83/596b83dc2b19cf3c410e2cfd200ee7ca.jpg") no-repeat 0% 60% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="1860-bianchi"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/_wpqG6IsbggAAAAd/bianchi-bianchi-khr.gif");
+    background-position: 20% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="1860-bianchi"] .image-decor::before {
+    content: "Бьянки";
+}
+
+/* Ария */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="25337-aria"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="25337-aria"] .image-cutter {
+    background: url("https://static.wikia.nocookie.net/reborn/images/3/32/Aria.png/revision/latest?cb=20150128123315&path-prefix=es") no-repeat 0% 15% / 110%;
+}
+.p-profiles .cc-favourites .c-character a[href*="25337-aria"] .image-decor::before {
+    content: "Ария";
+}
+
+/* Алауди */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="31335-alaude"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="31335-alaude"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/5c/da/42/5cda429518593decb0b51bfd9e7a0672.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="31335-alaude"] .image-cutter:hover {
+	background-image: url("https://s7.hostingkartinok.com/uploads/images/2014/10/3dc31114471bd5518e08b8c6c519321e.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="31335-alaude"] .image-decor::before {
+    content: "Алауди";
+}
+
+/* Бьякуран */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="10752-byakuran"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="10752-byakuran"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/11/1d/80/111d8041563f509d1fa787a3509a6369.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="10752-byakuran"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/Kyvu_aDsXuYAAAAd/byakuran-hitman-reborn.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="10752-byakuran"] .image-decor::before {
+    content: "Бьякуран";
+}
+
+/* Блюбелл */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="24450-bluebell"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="24450-bluebell"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/d9/9f/5c/d99f5c84abd6324b10a661144b1cc3b4.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="24450-bluebell"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/DxR-oS9sUSQAAAAC/bluebell-bluebell-khr.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="24450-bluebell"] .image-decor::before {
+    content: "Блюбелл";
+}
+
+/* Колонелло */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="4375-colonnello"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="4375-colonnello"] .image-cutter {
+    background: url("https://i.pinimg.com/originals/98/12/e6/9812e6f6f970086d8202008c11472c79.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="4375-colonnello"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/62/41/7a/62417acb53b5bf67e98f8bd3593dbccb.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="4375-colonnello"] .image-decor::before {
+    content: "Колонелло";
+}
+
+/* G */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="31330-g"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="31330-g"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/16/1f/d4/161fd497a9fb54b2bb59a50dbe279350.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="31330-g"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/26/a9/ee/26a9ee54451701bf501dde3d38abb539.gif");
+    background-position: 0% 0%;
+    background-size: 130%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="31330-g"] .image-decor::before {
+    content: "G";
+}
+
+/* Фран */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="17565-fran"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="17565-fran"] .image-cutter {
+    background: url("https://i.pinimg.com/originals/4d/e3/fd/4de3fd0fb89f53da2e367093ce103264.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="17565-fran"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/5c70ac3a6afedcb9edcc086cb8974830/tumblr_inline_opu8elI5Zo1u8ijet_500.gif");
+    background-position: 0% 0%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="17565-fran"] .image-decor::before {
+    content: "Фран";
+}
+
+/* Хибёрд */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="8829-hibird"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8829-hibird"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/6b/d6/0e/6bd60ec42e317f324698caacfa04fed5.jpg") no-repeat 0% 50% / 100%; top;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8829-hibird"] .image-cutter:hover {
+	background-image: url("https://media.tenor.com/1pShv5k09nwAAAAM/hibari-kyoya.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="8829-hibird"] .image-decor::before {
+    content: "Хибёрд";
+}
+
+/* Спаннер */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="10762-spanner"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="10762-spanner"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/70/e1/24/70e124cc5d95ac3609a5b94d63dc7767.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="10762-spanner"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/7c/3e/00/7c3e0064ae4c34d89442bd577a5bd048.gif");
+    background-position: 0% 0%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="10762-spanner"] .image-decor::before {
+    content: "Спаннер";
+}
+
+/* Шоичи Ириэ */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="10641-shouichi-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="10641-shouichi-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/b1/c1/e3/b1c1e3072f85722f96d51b3007f424c9.jpg") no-repeat 0% 50% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="10641-shouichi-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/tumblr_m8k4ce0aA31rbba8jo1_500.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="10641-shouichi-"] .image-decor::before {
+    content: "Шоичи Ириэ";
+}
+
+/* Дядюшка Кавахира */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="26176-uncle-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="26176-uncle-"] .image-cutter {
+    background: url("https://avatars.mds.yandex.net/i?id=98f29e5e8a66e47e06f4861df41c5e85_l-4767749-images-thumbs&n=13") no-repeat 50% 15% / 150%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="26176-uncle-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/1e/a2/f5/1ea2f560559e74537a531e323256e8fe.gif");
+    background-position: 30% 0%;
+    background-size: 150%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="26176-uncle-"] .image-decor::before {
+    content: "Дядюшка Кавахира";
+}
+
+/* Mahou Shoujo Ikusei Keikaku */
+/* Кранберри */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="141960-mori-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="141960-mori-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/be/6a/8f/be6a8fd4a6f86e4d421a7f348e7e6356.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="141960-mori-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/b7509a0fc475d75ca241038ba083440b/tumblr_oi12j4X5SV1ub5s7to10_r1_400.gif");
+    background-position: 70% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="141960-mori-"] .image-decor::before {
+    content: "Кранберри";
+}
+/* Алиса */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="141957-ako-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="141957-ako-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/0c/ec/5a/0cec5a5023e72cba7e3af597a1878b25.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="141957-ako-"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/NHuA_XtxUQMAAAAC/ikusei-keikaku.gif");
+    background-position: 0% 0%;
+    background-size: 130%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="141957-ako-"] .image-decor::before {
+    content: "Алиса";
+}
+
+/* Нэму */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="141955-nemu-"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="141955-nemu-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/d7/31/7d/d7317d5ad9373838751a00a3526d9d6d.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="141955-nemu-"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/h9Je1EMuOp0AAAAC/nemurin-wave.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="141955-nemu-"] .image-decor::before {
+    content: "Нэму";
+}
+
+/* Soul Eater */
+/* Цубаки Накацукаса */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="8443-tsubaki-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8443-tsubaki-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/70/ef/fe/70effe92c3ab7e7e0834a99c89e99f82.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8443-tsubaki-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/17cfd856f237d82f0d4704f08c3e7f1f/tumblr_mgp8pab7Z41qfwzeuo1_r1_500.gif");
+    background-position: 30% 0%;
+    background-size: 130%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="8443-tsubaki-"] .image-decor::before {
+    content: "Цубаки Накацукаса";
+}
+
+/* Патти Томпсон */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="8444-patricia-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8444-patricia-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/d0/7e/2a/d07e2a87cd8724c9856816382984dc68.jpg") no-repeat 0% 70% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8444-patricia-"] .image-cutter:hover {
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/89350819826668080/4A73AA4E277DBC01E07A1DB91337B3929EA47BF2/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="8444-patricia-"] .image-decor::before {
+    content: "Патти Томпсон";
+}
+
+/* Кид */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="8455-death-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8455-death-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/d1/7b/7d/d17b7d79ff944a7e35ad32f929ab5117.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8455-death-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/43/fa/bd/43fabd086e88cee04ec4fa8e38e5b87c.gif");
+    background-position: 50% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="8455-death-"] .image-decor::before {
+    content: "Кид";
+}
+
+/* Black☆Star */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="8464-black-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8464-black-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/b8/cd/27/b8cd27446fcf4bb53c5bf4bfc2083105.jpg") no-repeat 0% 50% / 110%; background-position: top;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8464-black-"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/rkQm2lOfRa0AAAAC/black-star-soul-eater.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="8464-black-"] .image-decor::before {
+    content: "Black☆Star";
+}
+
+/* Анджела Леон */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="13712-angela-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="13712-angela-"] .image-cutter {
+    background: url("https://avatars.mds.yandex.net/i?id=d2c16ada2567ebc4ff0d5ce92620a15c98492f23-5889279-images-thumbs&n=13") no-repeat 0% 15% / 100%; background-position: center;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="13712-angela-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/fe9e824d2a360b435e973df055a0933d/tumblr_ocscr6Hf151ta9suso1_540.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="13712-angela-"] .image-decor::before {
+    content: "Анджела Леон";
+}
+
+/* Мария Мьёльнир */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="15769-marie-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="15769-marie-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/3d/fb/e2/3dfbe2d2173e83ba3e707cfce2568c5d.jpg") no-repeat 0% 60% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="15769-marie-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/tumblr_md5einS0Ly1rut0qpo1_500.gif");
+    background-position: 50% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="15769-marie-"] .image-decor::before {
+    content: "Мария Мьёльнир";
+}
+
+/* Orange */
+/* Саку Хагита */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="76832-saku-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="76832-saku-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/2b/3c/50/2b3c504f51bdfa2da65acf115e1856f3.jpg") no-repeat 30% 50% / 130%; 
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="76832-saku-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/49/1c/20/491c20c589bd2a63072fa3b5b33ad00a.gif");
+    background-position: 70% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="76832-saku-"] .image-decor::before {
+    content: "Саку Хагита";
+}
+
+/* Хирото Сува */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="66595-hiroto-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="66595-hiroto-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/e0/31/c7/e031c7bca8346348b366ad8cc4a5bfe0.jpg") no-repeat 40% 20% / 120%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="66595-hiroto-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/26/a2/65/26a26531ac5e1ac5b0be46c34f51d45f.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="66595-hiroto-"] .image-decor::before {
+    content: "Хирото Сува";
+}
+
+/* Азуса Мурасака */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="76830-azusa-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="76830-azusa-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/a1/25/7d/a1257daab2eddb10459bc9adc9dc2d66.jpg") no-repeat 30% 35% / 120%; 
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="76830-azusa-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/f5/d9/c4/f5d9c467746b93b053cdc7c14e426363.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="76830-azusa-"] .image-decor::before {
+    content: "Азуса Мурасака";
+}
+
+/* Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai */
+/* Мэйко Хонма */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="40592-meiko-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="40592-meiko-"] .image-cutter {
+    background: url("https://i.pinimg.com/originals/c1/35/e5/c135e5ea360c099a3d1728f8bee39be9.jpg?nii=t") no-repeat 50% 40% / 180%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="40592-meiko-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/0f/ef/43/0fef43d7239b78db3259a1ec1ea8d6ec.gif");
+    background-position: 15% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="40592-meiko-"] .image-decor::before {
+    content: "Мэйко Хонма";
+}
+
+/* Тэцудо Хисакава */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="40596-tetsudou-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="40596-tetsudou-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/03/5b/9a/035b9a13e157ce7a2ada350664d4b2fb.jpg") no-repeat 30% 15% / 120%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="40596-tetsudou-"] .image-cutter:hover {
+	background-image: url("https://c.tenor.com/ysGJHCow464AAAAC/anohana-poppo.gif");
+    background-position: 30% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="40596-tetsudou-"] .image-decor::before {
+    content: "Тэцудо Хисакава";
+}
+
+/* Toki wo Kakeru Shoujo */
+/* Косукэ Цуда */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="2532-kousuke-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="2532-kousuke-"] .image-cutter {
+    background: url("https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e512c45c-70f9-4da6-bd69-a000f194003a/width=1200/e512c45c-70f9-4da6-bd69-a000f194003a.jpeg") no-repeat 0% 40% / 120%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="2532-kousuke-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/d7/60/c6/d760c63ad46917d3b68e59f5af2e518d.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="2532-kousuke-"] .image-decor::before {
+    content: "Косукэ Цуда";
+}
+
+/* Hotarubi no Mori e */
+/* Гин */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="41311-gin"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="41311-gin"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/a3/8b/e7/a38be7bef406adce4764e81734bea5a7.jpg") no-repeat 0% 15% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="41311-gin"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/db/53/3b/db533bf6b5d03f7da26e683cb0d1b1e7.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="41311-gin"] .image-decor::before {
+    content: "Гин";
+}
+
+/* Kenka Banchou Otome: Girl Beats Boys */
+/* Такаюки Конпару */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="146762-takayuki-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="146762-takayuki-"] .image-cutter {
+    background: url("https://i2.hdslb.com/bfs/archive/263456cc1ced12885edb58d4130271cfdd53e800.jpg") no-repeat 0% 15% / 110%;
+}
+
+.p-profiles .cc-favourites .b-catalog_entry a[href*="146762-takayuki-"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/a21bfacf1372c48780e8ff61dd11a130/tumblr_opdz8vC1ik1qes8cgo1_500.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="146762-takayuki-"] .image-decor::before {
+    content: "Такаюки Конпару";
+}
+
+/* Kiznaiver */
+/* Тэнга */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="134208-hajime-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="134208-hajime-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/5e/76/c2/5e76c2bfd31e6bc49c83fe6b900fef43.jpg") no-repeat 0% 15% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="134208-hajime-"] .image-cutter:hover {
+	background-image: url("https://images.steamusercontent.com/ugc/921416084914309033/01FC87E46390D569BA98EB4C8505CD7B6DA2E628/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true");
+    background-position: 0% 15%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="134208-hajime-"] .image-decor::before {
+    content: "Тэнга";
+}
+
+/* Нико */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="134209-niko-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="134209-niko-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/26/e9/aa/26e9aa83dbfee95e3d0a53f73a078c18.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="134209-niko-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/16/f4/59/16f45996f49f3c86ba423523fa062470.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="134209-niko-"] .image-decor::before {
+    content: "Нико";
+}
+
+/* Муцуми */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="139226-mutsumi-"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="139226-mutsumi-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/dc/c3/ef/dcc3ef6acf2c90c5a94fe0149329938c.jpg") no-repeat 30% 15% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="139226-mutsumi-"] .image-cutter:hover {
+	background-image: url("https://static.wikia.nocookie.net/topstrongest/images/c/c9/Mutsmile.gif/revision/latest?cb=20160706031800");
+    background-position: 15% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="139226-mutsumi-"] .image-decor::before {
+    content: "Муцуми";
+}
+
+/* Fairy Tail */
+/* Эрза */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="5189-erza-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5189-erza-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/e4/3c/45/e43c45484f7f133b48060284ee2d5b88.jpg") no-repeat 0% 40% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5189-erza-"] .image-cutter:hover {
+	background-image: url("https://media.tenor.com/pyI2rSf9HqYAAAAM/erza-erza-scarlet.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="5189-erza-"] .image-decor::before {
+    content: "Эрза";
+}
+
+/* Грей */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="4839-gray-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="4839-gray-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/ff/f8/fd/fff8fd94fdd2b03a8255d7c7e4b88c54.jpg") no-repeat 0% 15% / 120%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="4839-gray-"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/ya-wwOCi4gcAAAAC/gray-gray-fullbuster.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="4839-gray-"] .image-decor::before {
+    content: "Грей";
+}
+
+/* Джувия */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="9719-juvia-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="9719-juvia-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/66/ee/82/66ee824339cc69d491ea1695207e45fb.jpg") no-repeat 30% 25% / 130%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="9719-juvia-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/c3/2b/9c/c32b9c08fa1556808f8184a5ad57bec1.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="9719-juvia-"] .image-decor::before {
+    content: "Джувия";
+}
+
+/* Люси */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="5186-lucy-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5186-lucy-"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/7f/65/ba/7f65ba9bfbd3274f2b9246a56676bbad.jpg") no-repeat 0% 15% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5186-lucy-"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/8XYlsNDxIz8AAAAd/lucy-heartfilia-lucy.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="5186-lucy-"] .image-decor::before {
+    content: "Люси";
+}
+
+/* Водолей */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="26799-aquarius"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="26799-aquarius"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/8a/44/52/8a44525094f136e6033e44adaac07904.jpg") no-repeat 40% 50% / 150%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="26799-aquarius"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/JEttAH6HZz0AAAAC/aquarius-fairy-tail.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="26799-aquarius"] .image-decor::before {
+    content: "Водолей";
+}
+
+/* Кана */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="8296-cana-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8296-cana-"] .image-cutter {
+    background: url("https://ih1.redbubble.net/image.1576402660.9430/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg") no-repeat 0% 40% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="8296-cana-"] .image-cutter:hover {
+	background-image: url("https://3.bp.blogspot.com/-S1QwtiQXCPM/XGjoZfLwMSI/AAAAAAABcxU/0pAekAhIKZIDyAJwdHqxAvaubbzDqNyvgCKgBGAs/s1600/Omake%2BGif%2BAnime%2B-%2BFairy%2BTail%2BFinal%2BSeason%2B-%2BEpisode%2B296%2B-%2BCana%2BHas%2Ba%2BWhip.gif");
+    background-position: 30% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="8296-cana-"] .image-decor::before {
+    content: "Кана";
+}
+
+/* Коко */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="41401-coco"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="41401-coco"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/06/25/60/0625606f2b4b2b347292c643174455aa.jpg") no-repeat 0% 15% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="41401-coco"] .image-cutter:hover {
+	background-image: url("https://static.wikia.nocookie.net/fairytail/images/e/ed/Coco_beats_on_Macao.gif/revision/latest?cb=20151003182150&path-prefix=ru");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="41401-coco"] .image-decor::before {
+    content: "Коко";
+}
+
+/* Мираджейн */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="5190-mirajane-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5190-mirajane-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/82/ea/52/82ea520056f66328498de3d0074da301.jpg") no-repeat 0% 15% / 100%; background-position: center;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="5190-mirajane-"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/09/2d/cf/092dcf3102d15cec65bdb71add1682c1.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="5190-mirajane-"] .image-decor::before {
+    content: "Мираджейн";
+}
+
+/* Уртир */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="23842-ultear-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="23842-ultear-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/87/df/70/87df70f810de91eef7cc3083b14ee39d.jpg") no-repeat 0% 30% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="23842-ultear-"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/NjSJ3iioeeQAAAAC/ultear-milkovich-ultear.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="23842-ultear-"] .image-decor::before {
+    content: "Уртир";
+}
+
+/* Аска */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="60015-asuka-"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="60015-asuka-"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/c2/3e/02/c23e02d98e59bb5eebcdd3d0eda49dbb.jpg") no-repeat 15% 50% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="60015-asuka-"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/zNF_1JqEMpAAAAAC/asuka-asuka-connell.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="60015-asuka-"] .image-decor::before {
+    content: "Аска";
+}
+
+/* Эрик */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="30009-cobra"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="30009-cobra"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/0a/9f/c9/0a9fc944cfddb03691176abbbf358fee.jpg") no-repeat 0% 15% / 150%; background-position: center;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="30009-cobra"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/aUEh58X-wGcAAAAC/cobra-fairy-tail.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="30009-cobra"] .image-decor::before {
+    content: "Эрик";
+}
+
+/* Хисуи Е. Фиор */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="72529-hisui-e-fiore"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="72529-hisui-e-fiore"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/69/87/65/698765a661009bc2aca3cf29a52e53c1.jpg") no-repeat 0% 25% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="72529-hisui-e-fiore"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/77/59/70/77597024b13ef6ed672444ae1f18d4b4.gif");
+    background-position: 0% 0%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="72529-hisui-e-fiore"] .image-decor::before {
+    content: "Хисуи Е. Фиор";
+}
+
+/* Мавис */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="50163-mavis-vermillion"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="50163-mavis-vermillion"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/01/cd/5e/01cd5ef486ae37c53bc84da36c3f211f.jpg") no-repeat 0% 30% / 140%; 
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="50163-mavis-vermillion"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/TK8Ibmxm9voAAAAd/mavis-mavis-vermillion.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="50163-mavis-vermillion"] .image-decor::before {
+    content: "Мавис";
+}
+
+/* Брандиш */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="130964-brandish"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="130964-brandish"] .image-cutter {
+    background: url("https://i126.fastpic.org/big/2026/0104/15/99d5e907d4a25ffa33ef62bb964a5615.jpg") no-repeat 15% 30% / 130%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="130964-brandish"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/58/a3/f0/58a3f09cff4be2aa3aabd0fade13974e.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="130964-brandish"] .image-decor::before {
+    content: "Брандиш";
+}
+
+/* Димария */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="133962-dimaria-yesta"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="133962-dimaria-yesta"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/a6/65/59/a66559058bf05ce389542b124d3a018f.jpg") no-repeat 15% 30% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="133962-dimaria-yesta"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/dMnI1-iuUvwAAAAC/dimaria-dimaria-yesta.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="133962-dimaria-yesta"] .image-decor::before {
+    content: "Димария";
+}
+
+/* Венди */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="28886-wendy-marvell"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="28886-wendy-marvell"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/a1/fa/be/a1fabe240eb86d7986f40177eafeadea.jpg") no-repeat 0% 20% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="28886-wendy-marvell"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/escBcHbxM0wAAAAC/wendy-wendy-marvell.gif");
+    background-position: 50% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="28886-wendy-marvell"] .image-decor::before {
+    content: "Венди";
+}
+
+/* Шерия */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="64723-sherria-blendy"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="64723-sherria-blendy"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/ff/1b/de/ff1bde4434d084fa7877c9bb09dcbc5f.jpg") no-repeat 0% 10% / 100%; background-position: center;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="64723-sherria-blendy"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/kwOlqK1YyFQAAAAC/sherry-blendy-sherria.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="64723-sherria-blendy"] .image-decor::before {
+    content: "Шерия";
 }
