@@ -13,6 +13,13 @@
     background-image: var(--img-hover);
 }
 
+.p-profiles .cc-favourites .b-catalog_entry .image-cutter {
+    background: var(--img-static) no-repeat var(--bg-position, center) / var(--bg-size, cover);
+}
+.p-profiles .cc-favourites .b-catalog_entry .image-cutter:hover {
+    background-image: var(--img-hover);
+}
+
 /* Danganronpa */
 /* Кёко Киригири */
 a[href*="63845-kyouko-"] {
@@ -34,4 +41,5 @@ a[href*="10752-byakuran"] {
 .p-profiles .cc-favourites .c-character a[href*="10752-byakuran"] .image-decor::before {
     content: "Бьякуран";
 }
+
 
