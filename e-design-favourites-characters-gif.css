@@ -3,19 +3,12 @@
     visibility: hidden;
 }
 
-/* базовая обложка */
-.p-profiles .cc-favourites .b-catalog_entry .image-cutter {
-    background: var(--img-static) no-repeat center / cover;
-}
-
-/* гифка при наведении */
-.p-profiles .cc-favourites .b-catalog_entry .image-cutter:hover {
-    background-image: var(--img-hover);
-}
-
+/* базовая обложка + hover + позиция + размер */
 .p-profiles .cc-favourites .b-catalog_entry .image-cutter {
     background: var(--img-static) no-repeat var(--bg-position, center) / var(--bg-size, cover);
+    transition: background-image 0.2s ease;
 }
+
 .p-profiles .cc-favourites .b-catalog_entry .image-cutter:hover {
     background-image: var(--img-hover);
 }
@@ -41,6 +34,7 @@ a[href*="10752-byakuran"] {
 .p-profiles .cc-favourites .c-character a[href*="10752-byakuran"] .image-decor::before {
     content: "Бьякуран";
 }
+
 
 
 
