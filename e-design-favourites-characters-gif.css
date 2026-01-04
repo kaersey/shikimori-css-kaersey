@@ -1,6 +1,6 @@
 /* Danganronpa */
 /* Кёко Киригири */
-.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="10752-byakuran"] img {
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="63845-kyouko-"] img {
     visibility: hidden;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="63845-kyouko-"] .image-cutter {
@@ -27,3 +27,4 @@
 .p-profiles .cc-favourites .c-character a[href*="10752-byakuran"] .image-decor::before {
     content: "Бьякуран";
 }
+
