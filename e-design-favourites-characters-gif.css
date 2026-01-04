@@ -4,10 +4,14 @@
     visibility: hidden;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="10752-byakuran"] .image-cutter {
-    background: url("https://i.pinimg.com/1200x/11/1d/80/111d8041563f509d1fa787a3509a6369.jpg") no-repeat 0% 0% / 200%;
-    transition: background-image 0.2s ease;
+    background: url("https://i.pinimg.com/1200x/11/1d/80/111d8041563f509d1fa787a3509a6369.jpg") no-repeat 0% 30% / 100%;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="10752-byakuran"] .image-cutter:hover {
     background-image: url("https://media1.tenor.com/m/Kyvu_aDsXuYAAAAd/byakuran-hitman-reborn.gif");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
 }
-
+.p-profiles .cc-favourites .c-character a[href*="10752-byakuran"] .image-decor::before {
+    content: "Бьякуран";
+}
