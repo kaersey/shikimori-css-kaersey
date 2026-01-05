@@ -1152,3 +1152,72 @@
 .p-profiles .cc-favourites .c-character a[href*="64723-sherria-blendy"] .image-decor::before {
     content: "Шерия";
 }
+
+/* Yamada-kun to 7-nin no Majo */
+/* Урара */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="57491-urara-shiraishi"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="57491-urara-shiraishi"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/37/d3/1a/37d31ae1f221475cb8e9b2b2f3076971.jpg") no-repeat 0% 80% / 150%; background-position: center;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="57491-urara-shiraishi"] .image-cutter:hover {
+	background-image: url("https://images.steamusercontent.com/ugc/967597758327960718/15DB7FAF010A0AC1FB170E3259886081F4945454/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="57491-urara-shiraishi"] .image-decor::before {
+    content: "Урара";
+}
+
+/* Миямура */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="59317-toranosuke-miyamura"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="59317-toranosuke-miyamura"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/6b/da/d8/6bdad88c9dbf215f0228797b77690524.jpg") no-repeat 0% 50% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="59317-toranosuke-miyamura"] .image-cutter:hover {
+	background-image: url("https://64.media.tumblr.com/af74da5027005d309eb60d2bea7c554c/tumblr_nnvnkmEvGY1te5npgo3_500.gif");
+    background-position: 0% 0%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="59317-toranosuke-miyamura"] .image-decor::before {
+    content: "Миямура";
+}
+
+/* Кэнтаро Цубаки */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="74345-kentarou-tsubaki"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="74345-kentarou-tsubaki"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/63/23/e9/6323e962dada1c8302c646f22e9fb66f.jpg") no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="74345-kentarou-tsubaki"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/IjDQSIXQ3nYAAAAd/anime-talking.gif");
+    background-position: 0% 30%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="74345-kentarou-tsubaki"] .image-decor::before {
+    content: "Кэнтаро Цубаки";
+}
+
+/* Мария Саруcима */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="79985-maria-sarushima"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="79985-maria-sarushima"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/2a/23/c7/2a23c7bb92257f594b55282275287b76.jpg") no-repeat 0% 30% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="79985-maria-sarushima"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/c0/3e/46/c03e46e4c6fd562007442ed72bb506a1.gif");
+    background-position: 0% 40%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="79985-maria-sarushima"] .image-decor::before {
+    content: "Мария Саруcима";
+}
