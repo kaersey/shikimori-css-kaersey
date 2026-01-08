@@ -1221,3 +1221,89 @@
 .p-profiles .cc-favourites .c-character a[href*="79985-maria-sarushima"] .image-decor::before {
     content: "Мария Саруcима";
 }
+
+/* SK8 */
+/* Shadow */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="188063-hiromi-higa"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="188063-hiromi-higa"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/5c/0a/e7/5c0ae70b25512a1739025e47780972b3.jpg") no-repeat 0% 30% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="188063-hiromi-higa"] .image-cutter:hover {
+	background-image: url("https://media.tenor.com/8nSmuyCx5HgAAAAM/sk8-the-infinity-sk8.gif");
+    background-position: 30% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="188063-hiromi-higa"] .image-decor::before {
+    content: "Shadow";
+}
+
+/* Джо */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="188065-kojirou-nanjou"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="188065-kojirou-nanjou"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/43/25/13/43251362fc71acd9d236947670e6497e.jpg") no-repeat 30% 70% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="188065-kojirou-nanjou"] .image-cutter:hover {
+	background-image: url("https://media1.tenor.com/m/jHDK9QyU6mAAAAAd/sk8-nanjo-kojiro.gif");
+    background-position: 30% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="188065-kojirou-nanjou"] .image-decor::before {
+    content: "Джо";
+}
+
+/* Нанако Хасэгава */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="193468-nanako-hasegawa"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="193468-nanako-hasegawa"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/42/fd/32/42fd32be3f52f96ab30b7a5f22eb46a8.jpg") no-repeat 30% 30% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="193468-nanako-hasegawa"] .image-cutter:hover {
+	background-image: url("https://www.icegif.com/wp-content/uploads/sk8-the-infinity-icegif-3.gif");
+    background-position: 30% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="193468-nanako-hasegawa"] .image-decor::before {
+    content: "Нанако Хасэгава";
+}
+
+/* Сёкити Ока */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="195507-shoukichi-oka"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="195507-shoukichi-oka"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/69/e1/b5/69e1b58fc4614e3a1f89e7413f7bd95f.jpg") no-repeat 30% 30% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="195507-shoukichi-oka"] .image-cutter:hover {
+	background-image: url("https://static.wikia.nocookie.net/007130d8-ce31-4f2e-8b4a-b9953780fe40");
+    background-position: 30% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="195507-shoukichi-oka"] .image-decor::before {
+    content: "Сёкити Ока";
+}
+
+/* Рэки */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="188060-reki-kyan"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="188060-reki-kyan"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/8c/a3/f5/8ca3f589475955c78a84a51541111d6e.jpg") no-repeat 30% 30% / 110%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="188060-reki-kyan"] .image-cutter:hover {
+	background-image: url("https://i.pinimg.com/originals/3e/59/f0/3e59f0b4803e7555896528cd094dc645.gif");
+    background-position: 30% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="188060-reki-kyan"] .image-decor::before {
+    content: "Рэки";
+}
