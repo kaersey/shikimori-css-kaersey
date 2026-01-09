@@ -1,3 +1,7 @@
+.p-profiles .cc-favourites .image-cutter {
+  filter: none !important;
+}
+
 /* Danganronpa */
 /* Кёко Киригири */
 .p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="63845-kyouko-"] img {
