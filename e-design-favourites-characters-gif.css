@@ -1318,16 +1318,13 @@
     background-position: 55% 70%;
     background-size: 350%;
     background-color: transparent;
-	filter: none;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="188062-miya-chinen"] .image-cutter:hover {
 	background-image: url("https://64.media.tumblr.com/7dd3c5d7f1f8a555faa1b616313feb8a/38ad8c5fba9dad54-e1/s1280x1920/3a688dfe845f2e5d797339b13095dab1badd6757.gifv");
     background-position: 30% 0%;
     background-size: 110%;
     background-repeat: no-repeat;
-	filter: none;
 }
 .p-profiles .cc-favourites .c-character a[href*="188062-miya-chinen"] .image-decor::before {
     content: "Мия Тинэн";
 }
-
