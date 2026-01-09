@@ -28,6 +28,90 @@
     transition: filter 0.3s;
 }
 
+/* Токо Фукава */
+.c-character.entry-65529 img {
+    visibility: hidden;
+  }
+.c-character.entry-65529 .image-cutter {
+    background: url("https://i.pinimg.com/1200x/4f/7d/88/4f7d88682874af16f2d656902715ed54.jpg") no-repeat 70% 10% / 250%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-65529 .image-cutter:hover {
+	filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Аканэ Овари */
+.c-character.entry-73223 img {
+    visibility: hidden;
+  }
+.c-character.entry-73223 .image-cutter {
+    background: url("https://i.pinimg.com/736x/19/8c/06/198c063231f12f386629acec0315440b.jpg") no-repeat 35% 10% / 200%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-73223 .image-cutter:hover {
+	filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Ибуки Миода */
+.c-character.entry-73209 img {
+    visibility: hidden;
+  }
+.c-character.entry-73209 .image-cutter {
+    background: url("https://i.pinimg.com/736x/73/35/0b/73350ba5830b52851d6c8b9592cfc95d.jpg") no-repeat 35% 60% / 100%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-73209 .image-cutter:hover {
+	filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Хиёко Сайондзи */
+.c-character.entry-73225 img {
+    visibility: hidden;
+  }
+.c-character.entry-73225 .image-cutter {
+    background: url("https://i.pinimg.com/736x/66/93/16/669316ce8354cd32cde20d7fecc18072.jpg") no-repeat 50% 30% / 200%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-73225 .image-cutter:hover {
+	filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Тиаки Нанами */
+.c-character.entry-73205 img {
+    visibility: hidden;
+  }
+.c-character.entry-73205 .image-cutter {
+    background: url("https://i.pinimg.com/1200x/db/45/24/db4524c1044a958e4f99d7ccc14ab586.jpg") no-repeat 30% 30% / 200%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-73205 .image-cutter:hover {
+	filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Пэко Пэкояма */
+.c-character.entry-73231 img {
+    visibility: hidden;
+  }
+.c-character.entry-73231 .image-cutter {
+    background: url("https://i.pinimg.com/736x/d7/37/bb/d737bb24352a3cc143c1beaf3094e7c5.jpg") no-repeat 45% 30% / 150%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-73231 .image-cutter:hover {
+	filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
 /* Reborn */
 /* Хром Докуро */
 .c-character.entry-5013 img {
