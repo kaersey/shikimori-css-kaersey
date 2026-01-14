@@ -1332,3 +1332,88 @@
 .p-profiles .cc-favourites .c-character a[href*="188062-miya-chinen"] .image-decor::before {
     content: "Мия Тинэн";
 }
+
+/* Ore no Imouto ga Konnani Kawaii Wake ga Nai */
+/* Мия Тинэн */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="37303-kanako-kurusu"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="37303-kanako-kurusu"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/d0/bc/56/d0bc565abdd58c24c127f6dfd8ba2794.jpg");
+  background-repeat: no-repeat;
+    background-position: 55% 40%;
+    background-size: 100%;
+    background-color: transparent;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="37303-kanako-kurusu"] .image-cutter:hover {
+	background-image: url("https://i.makeagif.com/media/9-05-2013/pjwgrc.gif");
+    background-position: 30% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="37303-kanako-kurusu"] .image-decor::before {
+    content: "Канако Курусу";
+}
+
+/* Саори Макисима */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="31844-saori-makishima"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="31844-saori-makishima"] .image-cutter {
+    background: url("https://i.pinimg.com/736x/34/e5/26/34e526604f80af11dc79f705b52ac6df.jpg");
+  background-repeat: no-repeat;
+    background-position: 55% 40%;
+    background-size: 100%;
+    background-color: transparent;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="31844-saori-makishima"] .image-cutter:hover {
+	background-image: url("http://i2.kym-cdn.com/photos/images/newsfeed/000/810/830/0e0.gif");
+    background-position: 40% 35%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="31844-saori-makishima"] .image-decor::before {
+    content: "Саори Макисима";
+}
+
+/* Дедушка Тамуры */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="38036-grandfather-tamura"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="38036-grandfather-tamura"] .image-cutter {
+    background: url("https://i.postimg.cc/15fQsQCC/IEm-AZO6i-Cx-GKT801z0-50Epgeig-IHZSS5QVW-KA42Bl-M4Clyf95mc-s45viq-0enp-1BZl-PXf3I91dmvuv9jty-K.jpg");
+  background-repeat: no-repeat;
+    background-position: 55% 85%;
+    background-size: 250%;
+    background-color: transparent;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="38036-grandfather-tamura"] .image-cutter:hover {
+	background-image: url("https://i.postimg.cc/bJSqLf7Z/ANEOreno-Imoutoga-Konnani-Kawaii-Wakega-Nai-Ep06BDRip1080px264FLAC-mkv-20260114-232707-ezgif-com-cut.gif");
+    background-position: 40% 35%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="38036-grandfather-tamura"] .image-decor::before {
+    content: "Дедушка Тамуры";
+}
+
+/* Рури Гоко */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="31008-ruri-gokou"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="31008-ruri-gokou"] .image-cutter {
+    background: url("https://i.pinimg.com/1200x/cb/66/cd/cb66cde91daf22c090068d7f49905239.jpg");
+  background-repeat: no-repeat;
+    background-position: 55% 85%;
+    background-size: 250%;
+    background-color: transparent;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="31008-ruri-gokou"] .image-cutter:hover {
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/99474701121322890/E5732FFCA4FC62C9FEFEA6E4D15AD5EF21F035E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+    background-position: 40% 35%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="31008-ruri-gokou"] .image-decor::before {
+    content: "Рури Гоко";
+}
