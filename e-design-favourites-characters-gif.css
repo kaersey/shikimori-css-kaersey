@@ -1417,3 +1417,24 @@
 .p-profiles .cc-favourites .c-character a[href*="31008-ruri-gokou"] .image-decor::before {
     content: "Рури Гоко";
 }
+
+/* Сэна Акаги */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="41465-sena-akagi"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="41465-sena-akagi"] .image-cutter {
+    background: url("https://images-ng.pixai.art/images/orig/5be4a6f8-bdf0-4e76-8a66-d8cfbdc275c9");
+  background-repeat: no-repeat;
+    background-position: 55% 35%;
+    background-size: 120%;
+    background-color: transparent;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="41465-sena-akagi"] .image-cutter:hover {
+	background-image: url("https://i.postimg.cc/d1XxBXKN/ANEOreno-Imoutoga-Konnani-Kawaii-Wakega-Nai-Ep15BDRip1080px264FLAC-mkv-20260117-170205-ezgif-com-spe.gif");
+    background-position: 55% 30%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="41465-sena-akagi"] .image-decor::before {
+    content: "Сэна Акаги";
+}
