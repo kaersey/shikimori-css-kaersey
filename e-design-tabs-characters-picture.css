@@ -688,7 +688,7 @@
   }
 .c-character.entry-84499 .image-cutter {
     background: url("https://i.pinimg.com/1200x/e4/2d/65/e42d657d73ec14224f02213a70a7038d.jpg") no-repeat 80% 70% / 400%;
-  filter: contrast(1) saturate(0);
+  filter: contrast(1) saturate(1.5);
     transition: filter 0.3s;
 }
 .c-character.entry-84499 .image-cutter:hover {
