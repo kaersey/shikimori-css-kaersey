@@ -692,7 +692,7 @@
     transition: filter 0.3s;
 }
 .c-character.entry-84499 .image-cutter:hover {
-  filter: saturate(1.5);
+  filter: contrast(1) saturate(1.5);
     transition: filter 0.3s;
 }
 
