@@ -164,11 +164,11 @@
 
 /* Death Note */
 /* Л Лоулайт */
-.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="71-l-"] img {
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="-l-"] img {
     visibility: hidden;
   }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="71-l-"] .image-cutter {
-    background: url(https://i.imgur.com/SZhcY4Z.jpeg) no-repeat 0% 50% / 100%;
+    background: url(https://i.imgur.com/cQrU5l5.jpeg) no-repeat 0% 50% / 100%;
 }
 .p-profiles .cc-favourites .b-catalog_entry a[href*="71-l-"] .image-cutter:hover {
 	background-image: url(https://i.imgur.com/fkp48l7.gif);
