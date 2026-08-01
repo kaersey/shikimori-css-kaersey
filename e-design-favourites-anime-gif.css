@@ -150,3 +150,20 @@
 .p-profiles .cc-favourites .b-catalog_entry a[href*="32729-orange"] .image-decor::before {
     content: "Orange";
 }
+
+/* Violet Evergarden */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="33352-violet-evergarden"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="33352-violet-evergarden"] .image-cutter {
+    background: url(https://i.imgur.com/f7lSmLw.png) no-repeat 60% 0% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="33352-violet-evergarden"] .image-cutter:hover {
+    background-image: url(https://i.imgur.com/4bNhYX5.gif);
+    background-position: 15% 15%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="33352-violet-evergarden"] .image-decor::before {
+    content: "Violet Evergarden";
+}
