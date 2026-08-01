@@ -851,3 +851,102 @@
   filter: saturate(1.5);
     transition: filter 0.3s;
 }
+
+/* Violet Evergarden */
+/* Энн */
+.c-character.entry-159915 img {
+    visibility: hidden;
+  }
+.c-character.entry-159915 .image-cutter {
+    background: url(https://i.imgur.com/ZSGiVby.jpeg) no-repeat 50% 40% / 180%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-159915 .image-cutter:hover {
+  filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Шарлотта */
+.c-character.entry-159040 img {
+    visibility: hidden;
+  }
+.c-character.entry-159040 .image-cutter {
+    background: url(https://i.imgur.com/DiAjwcE.png) no-repeat 50% 40% / 180%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-159040 .image-cutter:hover {
+  filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Клаудия */
+.c-character.entry-152270 img {
+    visibility: hidden;
+  }
+.c-character.entry-152270 .image-cutter {
+    background: url(https://i.imgur.com/QxMZ3Bh.jpeg) no-repeat 50% 40% / 180%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-152270 .image-cutter:hover {
+  filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Дитфрид */
+.c-character.entry-158277 img {
+    visibility: hidden;
+  }
+.c-character.entry-158277 .image-cutter {
+    background: url(https://i.imgur.com/8kMmIl9.jpeg) no-repeat 50% 40% / 180%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-158277 .image-cutter:hover {
+  filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Лион */
+.c-character.entry-159432 img {
+    visibility: hidden;
+  }
+.c-character.entry-159432 .image-cutter {
+    background: url(https://i.imgur.com/KXvTjnG.jpeg) no-repeat 50% 40% / 180%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-159432 .image-cutter:hover {
+  filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Лукулия */
+.c-character.entry-158540 img {
+    visibility: hidden;
+  }
+.c-character.entry-158540 .image-cutter {
+    background: url(https://i.imgur.com/Jgc1JXS.jpeg) no-repeat 50% 40% / 180%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-158540 .image-cutter:hover {
+  filter: saturate(1.5);
+    transition: filter 0.3s;
+}
+
+/* Тейлор */
+.c-character.entry-181549 img {
+    visibility: hidden;
+  }
+.c-character.entry-181549 .image-cutter {
+    background: url(https://i.imgur.com/FZmdk3c.jpeg) no-repeat 50% 40% / 180%;
+  filter: contrast(1) saturate(0);
+    transition: filter 0.3s;
+}
+.c-character.entry-181549 .image-cutter:hover {
+  filter: saturate(1.5);
+    transition: filter 0.3s;
+}
