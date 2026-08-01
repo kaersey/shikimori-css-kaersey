@@ -1438,3 +1438,141 @@
 .p-profiles .cc-favourites .c-character a[href*="41465-sena-akagi"] .image-decor::before {
     content: "Сэна Акаги";
 }
+
+/* Violet Evergarden */
+/* Лукулия */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="158540-luculia-marlborough"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="158540-luculia-marlborough"] .image-cutter {
+    background: url(https://i.imgur.com/Jgc1JXS.jpeg) no-repeat 0% 50% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="158540-luculia-marlborough"] .image-cutter:hover {
+    background-image: url(https://i.imgur.com/d6vz7xQ.gif);
+    background-position: 0% 50%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="158540-luculia-marlborough"] .image-decor::before {
+    content: "Лукулия Мальборо";
+}
+
+
+/* Каттлея Бодлер */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="152273-cattleya-baudelaire"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="152273-cattleya-baudelaire"] .image-cutter {
+    background: url(https://i.imgur.com/cc1z0Sj.jpeg) no-repeat 40% 32% / 150%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="152273-cattleya-baudelaire"] .image-cutter:hover {
+    background-image: url(https://i.imgur.com/IJ95LjZ.gif);
+    background-position: 0% 50%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="152273-cattleya-baudelaire"] .image-decor::before {
+    content: "Каттлея Бодлер";
+}
+
+/* Клаудия Ходжинс */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="152270-claudia-hodgins"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="152270-claudia-hodgins"] .image-cutter {
+    background: url(https://i.imgur.com/QxMZ3Bh.jpeg) no-repeat 80% 35% / 170%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="152270-claudia-hodgins"] .image-cutter:hover {
+    background-image: url(https://i.imgur.com/XbLxqx1.gif);
+    background-position: 0% 50%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="152270-claudia-hodgins"] .image-decor::before {
+    content: "Клаудия Ходжинс";
+}
+
+/* Вайолет Эвергарден */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="141354-violet-evergarden"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="141354-violet-evergarden"] .image-cutter {
+    background: url(https://i.imgur.com/arHOJEW.jpeg) no-repeat 50% 22% / 150%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="141354-violet-evergarden"] .image-cutter:hover {
+    background-image: url(https://i.imgur.com/TIePkCc.gif);
+    background-position: 0% 50%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="141354-violet-evergarden"] .image-decor::before {
+    content: "Вайолет Эвергарден";
+}
+
+/* Альберта */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="159039-alberta"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="159039-alberta"] .image-cutter {
+    background: url(https://i.imgur.com/UyhgbAo.jpeg) no-repeat 0% 30% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="159039-alberta"] .image-cutter:hover {
+    background-image: url(https://i.imgur.com/gYX6JIZ.gif);
+    background-position: 0% 50%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="159039-alberta"] .image-decor::before {
+    content: "Альберта ";
+}
+
+/* Шарлотта */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="159040-charlotte-abelfreyja-drossel"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="159040-charlotte-abelfreyja-drossel"] .image-cutter {
+    background: url(https://i.imgur.com/DiAjwcE.png) no-repeat 50% 70% / 180%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="159040-charlotte-abelfreyja-drossel"] .image-cutter:hover {
+    background-image: url(https://i.imgur.com/npHn3A6.gif);
+    background-position: 0% 50%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="159040-charlotte-abelfreyja-drossel"] .image-decor::before {
+    content: "Шарлотта ";
+}
+
+/* Оливия Уэбстер */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="159427-olivia-webster"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="159427-olivia-webster"] .image-cutter {
+    background: url(https://i.imgur.com/6yS3Yeb.jpeg) no-repeat 40% 40% / 150%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="159427-olivia-webster"] .image-cutter:hover {
+    background-image: url(https://i.imgur.com/Esf3ago.gif);
+    background-position: 0% 50%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="159427-olivia-webster"] .image-decor::before {
+    content: "Оливия Уэбстер ";
+}
+
+/* Тейлор Бартлет */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="181549-taylor-bartlett"] img {
+    visibility: hidden;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="181549-taylor-bartlett"] .image-cutter {
+    background: url(https://i.imgur.com/FZmdk3c.jpeg) no-repeat 20% 48% / 250%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="181549-taylor-bartlett"] .image-cutter:hover {
+    background-image: url(https://i.imgur.com/z0YYyX4.gif);
+    background-position: 70% 0%;
+    background-size: 160%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="181549-taylor-bartlett"] .image-decor::before {
+    content: "Тейлор Бартлет ";
+}
