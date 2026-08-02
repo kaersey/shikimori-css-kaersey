@@ -1437,8 +1437,7 @@
 }
 .p-profiles .cc-favourites .c-character a[href*="41465-sena-akagi"] .image-decor::before {
     content: "Сэна Акаги";
-}
-
+	
 /* Violet Evergarden */
 /* Лукулия */
 .p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="158540-luculia-marlborough"] img {
@@ -1575,4 +1574,56 @@
 }
 .p-profiles .cc-favourites .c-character a[href*="181549-taylor-bartlett"] .image-decor::before {
     content: "Тейлор Бартлет ";
+}
+
+/* Erased */
+/* Айри Катагири */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="130213-airi-katagiri"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="130213-airi-katagiri"] .image-cutter {
+    background: url(https://i.imgur.com/nOALgDG.jpeg) no-repeat 10% 20% / 170%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="130213-airi-katagiri"] .image-cutter:hover {
+	background-image: url(https://i.imgur.com/MdtlYqw.gif);
+    background-position: 50% 0%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="130213-airi-katagiri"] .image-decor::before {
+    content: "Айри Катагири";
+}
+
+/* Кэнъя Кобаяси */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="130216-kenya-kobayashi"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="130216-kenya-kobayashi"] .image-cutter {
+    background: url(https://i.imgur.com/ZNeJQxf.jpeg) no-repeat 0% 50% / 100%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="130216-kenya-kobayashi"] .image-cutter:hover {
+	background-image: url(https://i.imgur.com/eUXMIMR.gif);
+    background-position: 0% 0%;
+    background-size: 110%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="130216-kenya-kobayashi"] .image-decor::before {
+    content: "Кэнъя Кобаяси";
+}
+
+/* Сатико Фудзинума */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="130214-sachiko-fujinuma"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="130214-sachiko-fujinuma"] .image-cutter {
+    background: url(https://i.imgur.com/0w2wx4P.png) no-repeat 40% 45% / 120%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="130214-sachiko-fujinuma"] .image-cutter:hover {
+	background-image: url(https://i.imgur.com/t1F0t4j.gif);
+    background-position: 40% 0%;
+    background-size: 125%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="130214-sachiko-fujinuma"] .image-decor::before {
+    content: "Сатико Фудзинума";
 }
