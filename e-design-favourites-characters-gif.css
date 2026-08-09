@@ -1628,3 +1628,41 @@
 .p-profiles .cc-favourites .c-character a[href*="130214-sachiko-fujinuma"] .image-decor::before {
     content: "Сатико Фудзинума";
 }
+
+/* K-on */
+/* Адзуса Накано */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="21173-azusa-nakano"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="21173-azusa-nakano"] .image-cutter {
+    background: url(https://i.imgur.com/N9a8Jgf.jpeg) no-repeat 40% 20% / 150%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="21173-azusa-nakano"] .image-cutter:hover {
+	background-image: url(https://i.imgur.com/GzCHTKb.gif);
+    background-position: 50% 0%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="21173-azusa-nakano"] .image-decor::before {
+    content: "Адзуса Накано";
+}
+.p-profiles .cc-favourites .c-character a[href*="21173-azusa-nakano"] .image-cutter::before {
+	content: "Адзу-нян ^._.^";
+}
+
+/* Юи Хирасава */
+.p-profiles .cc-favourites [class*="b-catalog_entry"] > a[href*="19565-yui-hirasawa"] img {
+    visibility: hidden;
+  }
+.p-profiles .cc-favourites .b-catalog_entry a[href*="19565-yui-hirasawa"] .image-cutter {
+    background: url(https://i.imgur.com/sv6ywLO.jpeg) no-repeat 40% 15% / 150%;
+}
+.p-profiles .cc-favourites .b-catalog_entry a[href*="19565-yui-hirasawa"] .image-cutter:hover {
+	background-image: url(https://i.imgur.com/E7vEBv0.gif);
+    background-position: 50% 0%;
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.p-profiles .cc-favourites .c-character a[href*="19565-yui-hirasawa"] .image-decor::before {
+    content: "Юи Хирасава";
+}
